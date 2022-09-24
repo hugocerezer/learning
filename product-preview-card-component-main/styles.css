@@ -39,27 +39,27 @@ button {
 button:hover {
     background-color: hsl(158, 36%, 27%);
 }
+/* CONFIG FOR BIGGER SCREEN (IPAD OR >) */
+@media screen and (min-width: 768px){
 
 .centered {
     display: flex;
-    top: 50%;
+    margin: auto;
     left: 50%;
     width: 600px;
     height: 450px;;
     border-radius: 10px;
     background-color: white;
     overflow: hidden;
-}
+    }
 
-/* CONFIG FOR BIGGER SCREEN (IPAD OR >) */
-@media screen and (min-width: 768px){
     .left {
         width: 300px;
+        height: 450px;
         background-image: url(images/image-product-desktop.jpg);
         background-size: 100%;
         background-repeat: no-repeat;
         background-position: center;
-        
     }
     
     .right {
@@ -67,6 +67,34 @@ button:hover {
         padding: 20px;
         box-sizing: border-box;
     }
+}
+
+/* CONFIG FOR SMALLER SCREEN */
+@media screen and (max-width: 768px){
+    .centered {
+        margin: auto;
+        left: 50%;
+        display: block;
+        width: 320px;
+        background-color: white;
+        border-radius: 10px;
+        overflow: hidden;
+    }
+
+    .left {
+        background-image: url(images/image-product-mobile.jpg);
+        display: block  ;
+        height: 230px;
+        background-size: 100%;
+        background-repeat: no-repeat;
+        
+    }
+
+    .right {
+        box-sizing: border-box;
+        padding: 20px;
+    }
+
 }
 
 .product-price {
