@@ -1,7 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap');
 
 body {
+    min-height: 100vh;
     background-color: hsl(30, 38%, 92%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 
 h1 {
@@ -56,10 +61,6 @@ button:hover {
     .left {
         width: 300px;
         height: 450px;
-        background-image: url(images/image-product-desktop.jpg);
-        background-size: 100%;
-        background-repeat: no-repeat;
-        background-position: center;
     }
     
     .right {
@@ -82,11 +83,8 @@ button:hover {
     }
 
     .left {
-        background-image: url(images/image-product-mobile.jpg);
         display: block  ;
         height: 230px;
-        background-size: 100%;
-        background-repeat: no-repeat;
         
     }
 
@@ -110,4 +108,8 @@ button:hover {
     font-size: 12px;
     text-align: center;
     justify-content: center;
+}
+
+.product-image {
+    width:100%;
 }
