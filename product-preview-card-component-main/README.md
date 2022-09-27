@@ -15,8 +15,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -41,7 +39,7 @@ Users should be able to:
 
 ### What I learned
 
-Very basic usage of HTML + CSS. Positioning a FLEX <div> can be kind of painful for a beginner. Even more than the [past challenge]()https://hugocerezer.github.io/learning/qr-code-component-main/.
+Very basic usage of HTML + CSS. Positioning a FLEX <div> can be kind of painful for a beginner. Even more than the [past challenge] (https://hugocerezer.github.io/learning/qr-code-component-main/).
 Couldn't make it to be horizontally and vertically centered.  Horizontally should be enough for now. It's already a long time trying to find a solution.
 
 ### Continued development
