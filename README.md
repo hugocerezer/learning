@@ -1,12 +1,15 @@
-# learning
-Just a repo to archive what I've done during the process of training.
-### QR code component 
-- Code [https://github.com/hugocerezer/learning/tree/main/qr-code-component-main]
-- Preview [https://hugocerezer.github.io/learning/qr-code-component-main/]
-Done: 19/09/2022
+<h1>learning 📚</h2>
+<p>Just a repo to archive what I've done during the learning process.</p>
+<h3>QR code component</h3>
+<img src="https://skillicons.dev/icons?i=html,css" style="width: 5%;">
+<ul><li><a href="https://github.com/hugocerezer/learning/tree/main/qr-code-component-main">Code</a></li>
+<li><a href="https://hugocerezer.github.io/learning/qr-code-component-main/">Preview</a></li>
+</ul>
+<p>✔ Done: 19/09/2022</p>
 
-### Product Preview Card Component
-- Code [https://github.com/hugocerezer/learning/tree/main/product-preview-card-component-main]
-- Preview [https://hugocerezer.github.io/learning/product-preview-card-component-main]
-Done: 24/09/2022
-Re-done:
+<h3>Product Preview Card Component</h3>
+<img src="https://skillicons.dev/icons?i=html,css" style="width: 5%;">
+<ul><li><a href="https://github.com/hugocerezer/learning/tree/main/product-preview-card-component-main">Code</a></li>
+<li><a href="https://hugocerezer.github.io/learning/product-preview-card-component-main">Preview</a></li></ul>
+<p>❌ Done: 24/09/2022</p>
+<p>✔ Refactored: 27/09/2022</p>
