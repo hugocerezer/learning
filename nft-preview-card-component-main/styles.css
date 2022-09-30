@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+}
+
+hr {
+    background-color: hsl(215, 32%, 27%);
+    border: 0;
+    height: 1px;
+    width: 100%;
+}
+
+.image-box {
+    display: relative;
+    background-color: hsl(178, 100%, 50%);
+    line-height: 0;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.coin-name {
+    color: hsl(0, 0%, 100%);
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+.coin-name:hover {
+    color:hsl(178, 100%, 50%);
+}
+
+.coin-description {
+    color: hsl(215, 51%, 70%);
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.coin-price {
+    vertical-align: middle;
+}
+
+.card {
+    display: absolute;
+    top: 50%;
+    left: 50%;
+    width: 350px;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 15px;
+    height: auto;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.price-box {
+    width: 50%;
+    float: left;
+    color: hsl(178, 100%, 50%);
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.time-box {
+    width: 50%;
+    float: right;
+    text-align: right;
+    color: hsl(215, 51%, 70%);
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+.coin-image {
+    width: 100%;
+}
+
+.coin-image:hover {
+    opacity: 0.7;
+}
+
+.author {
+    color:hsl(215, 51%, 70%);
+    font-size: 1rem;
+}
+
+.author-link {
+    text-decoration: none;
+    color: hsl(0, 0%, 100%);
+}
+
+.author-link:hover {
+    color:hsl(178, 100%, 50%);
+}
+
+.author-avatar {
+    width: 25px;
+    border: 1px solid hsl(0, 0%, 100%);
+    border-radius: 100%;
+    float: left;
+    margin-right: 15px;
+}
