@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Fredoka+One&display=swap');
+
+body {
+  background-color: #3a3042;
+  margin: auto;
+  text-align: center;
+}
+
+button {
+  width: 200px;
+  height: 50px;
+  margin: auto;
+  font-size: 2rem;
+  color: #3a3042;
+  background-color: #edffd9;
+  font-family: "Fredoka One", cursive;
+}
+
+.box {
+  display: flex;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+#winner {
+  color: #db9d47;
+  font-size: 3rem;
+  font-family: 'Carter One', cursive;
+  text-align: center;
+}
+
+.title {
+  color: #db9d47;
+  font-size: 3rem;
+  font-family: 'Carter One', cursive;
+  text-align: center;
+}
+
+.dice {
+  width: 150px;
+  height: 150px;
+  background-color: #edffd9;
+  border-radius: 10%;
+  margin: 20px;
+  padding: 5px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+}
+
+.dot {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #ff784f;
+  place-self: center;
+}
+
+.row-1 {
+  grid-row-start: 1;
+}
+
+.row-2 {
+  grid-row-start: 2;
+}
+
+.row-3 {
+  grid-row-start: 3;
+}
+
+.col-1 {
+  grid-column-start: 1;
+}
+
+.col-2 {
+  grid-column-start: 2;
+}
+
+.col-3 {
+  grid-column-start: 3;
+}
