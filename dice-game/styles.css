@@ -16,6 +16,12 @@ button {
   font-family: "Fredoka One", cursive;
 }
 
+.dice-text {
+  color: #3a3042;
+  font-family: "Fredoka One", cursive;
+  font-size: 2rem;
+}
+
 .box {
   display: flex;
   margin: auto;
