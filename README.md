@@ -19,3 +19,9 @@
 <ul><li><a href="https://github.com/hugocerezer/learning/tree/main/nft-preview-card-component-main">Code</a></li>
 <li><a href="https://hugocerezer.github.io/learning/nft-preview-card-component-main/">Preview</a></li></ul>
 <p>❗ Done: 30/09/2022 <em>Couldn't make some requirements.</em></p>
+
+<h3>Dice Game</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js" style="width: 5%;">
+<ul><li><a href="https://github.com/hugocerezer/learning/tree/main/dice-game">Code</a></li>
+<li><a href="https://hugocerezer.github.io/learning/dice-game/">Preview</a></li></ul>
+<p>✔ Done: 17/11/2022</p>
