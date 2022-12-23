@@ -25,3 +25,9 @@
 <ul><li><a href="https://github.com/hugocerezer/learning/tree/main/dice-game">Code</a></li>
 <li><a href="https://hugocerezer.github.io/learning/dice-game/">Preview</a></li></ul>
 <p>✔ Done: 17/11/2022</p>
+
+<h3>Newsletter Signup with Mailchimp API</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js" style="width: 5%;">
+<ul><li><a href="https://github.com/hugocerezer/learning/tree/main/dice-game">Code</a></li>
+<li><a href="https://hugocerezer.github.io/learning/dice-game/">Preview</a></li></ul>
+<p>✔ Done: 23/12/2022</p>
