@@ -31,3 +31,15 @@
 <ul><li><a href="https://github.com/hugocerezer/learning/tree/main/dice-game">Code</a></li>
 <li><a href="https://hugocerezer.github.io/learning/dice-game/">Preview</a></li></ul>
 <p>✔ Done: 23/12/2022</p>
+
+<h3>Todolist</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js" style="width: 5%;">
+<ul><li><a href="https://github.com/hugocerezer/learning/tree/main/todolist">Code</a></li>
+<li><s>Preview</s></li></ul>
+<p>✔ Done: 08/01/2023</p>
+
+<h3>Simple Blog System</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js" style="width: 5%;">
+<ul><li><a href="https://github.com/hugocerezer/learning/tree/main/simple-blog">Code</a></li>
+<li><s>Preview</s></li></ul>
+<p>✔ Done: 10/01/2023</p>
