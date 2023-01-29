@@ -55,3 +55,9 @@
 <ul><li><a href="https://github.com/hugocerezer/learning/tree/main/simple-blog-v2">Code</a></li>
 <li><s>Preview</s></li></ul>
 <p>✔ Done: 28/01/2023</p>
+
+<h3>Wiki API - RESTful</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js" style="width: 5%;">
+<ul><li><a href="https://github.com/hugocerezer/learning/tree/main/wiki-api">Code</a></li>
+<li><s>Preview</s></li></ul>
+<p>✔ Done: 29/01/2023</p>
